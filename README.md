@@ -9,4 +9,4 @@
   <li>Indicators for amount of lives, score and highest score</li>
   <li>Music and sound</li>
   </ul>
-  <p>Note: To enable music and sound, change the value of the constants "SOUND_ON" and "MUSIC_ON" to true
+  <p>Note: To enable music and sound, change the value of the constants "SOUND_ON" and "MUSIC_ON" to true in the .js file
